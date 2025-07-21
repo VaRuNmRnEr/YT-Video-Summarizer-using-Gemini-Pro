@@ -1,0 +1,1 @@
+Developed an AI-powered application that transcribes and summarizes YouTube videos using Google Gemini 2.0 Pro. Implemented YouTube Transcription API to extract spoken content and leveraged Gemini Pro to generate concise, high-quality summaries. Built an intuitive Streamlit web app where users can input a YouTube link and receive a structured summary.
